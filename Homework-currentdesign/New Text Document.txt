@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+	<head>
+		<title>id attribute</title>
+
+	</head>
+<body>
+		<ol>
+			<li>Mouse</li>
+			<li>Keyboard</li>
+			<li>Motherboard</li>
+		</ol>
+		<ul>
+			<li>Ram</li>
+			<li>Processor</li>
+			<li>Register</li>
+		</ul>
+		
+	
+</body>
+</html>
+	
+
+
